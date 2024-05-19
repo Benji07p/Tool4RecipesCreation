@@ -57,7 +57,7 @@ def transform_json(input_file, output_file):
     # Créer la nouvelle structure JSON
     transformed_data = {
         "type": "recipe",
-        "crafter": "baker_crafting",
+        "crafter": "blacksmith_crafting",
         "inputs": inputs,
         "result": result_item,
         "count": count_item_final,
