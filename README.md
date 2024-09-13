@@ -8,4 +8,9 @@ Create a folder "inputs", move your JSON into this folders.
 
 # **Tag2Item4Farming4Blockheads**
 
-Use process_values() fonction with a list to get a output files with all of your recipes.
+Use process_values() function with a list to get a output files with all of your recipes.
+
+# **DataJsonFile2GameStages**
+
+Put the file in the data folder.
+Use fonction() function to get a output files with all of recipes.
